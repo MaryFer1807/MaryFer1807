@@ -16,23 +16,6 @@ Recientemente finalicé el **bootcamp de Data Science**, donde desarrollé proye
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-013243?style=flat&logo=plotly&logoColor=white)
 
----
-
-## 📂 Proyectos destacados  
-
-### 🎮 Análisis de ventas de videojuegos (Ice Store)  
-Identificación de patrones de éxito en plataformas y géneros para proyecciones de ventas.  
-🔗 [Repositorio](URL-del-proyecto)  
-
-### 🚕 Movilidad y clima en Chicago (Zuber)  
-Impacto del clima en duración de viajes y patrones de demanda en ridesharing.  
-🔗 [Repositorio](URL-del-proyecto)  
-
-### 🏭 Predicción de recuperación de oro (Zyfra)  
-Modelado de procesos industriales para predecir métricas de recuperación con sMAPE.  
-🔗 [Repositorio](URL-del-proyecto)  
-
----
 
 ## 📫 Conecta conmigo  
 - 💼 [LinkedIn](https://www.linkedin.com/in/mary-fer-haro-312723293/)  
