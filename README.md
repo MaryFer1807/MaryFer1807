@@ -1,10 +1,7 @@
-# MaryFerHaro
-Repositorio personal de presentación en GitHub.
-
-# 👩‍💻 Mary Fer Haro  
+# Mary Fer Haro  
 
 Científica de datos en formación con sólida trayectoria como abogada ⚖️, lo que me brinda una fuerte capacidad analítica, atención al detalle y pensamiento crítico.  
-Recientemente finalicé el **bootcamp de Data Science en TripleTen**, donde desarrollé proyectos aplicando Python, SQL, análisis estadístico y machine learning.  
+Recientemente finalicé el **bootcamp de Data Science**, donde desarrollé proyectos aplicando Python, Jupyter Notebook, Git, GitHub, Pandas, Matplotlib, Seaborn, Plotly, SQL, Scikit-learn, Keras, LightGBM, XBoost, pymystem, nltk 
 
 🔍 Mi meta es aplicar la ciencia de datos para resolver problemas complejos y aportar valor estratégico a las organizaciones.  
 
